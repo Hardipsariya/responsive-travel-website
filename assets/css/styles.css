@@ -23,10 +23,8 @@
   --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
   --scroll-thumb-color: hsl(var(--hue-color), 12%, 75%);
  /* p section added */
-  p 
-
-
-  {
+p 
+{
 
 color:blue;
 
